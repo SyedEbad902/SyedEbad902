@@ -18,7 +18,7 @@
   <div align="left">
     <ul>
       <li>🔭 I’m currently working on Flutter</li>
-      <li>📫 How to reach me ebad3088@gmail.com</li>
+      <li>📫 How to reach me  <a href="mailto:ebad3088@gmail.com">ebad3088@gmail.com</a></li>
       <li>🌱 Graduated from Sindh Madressatul Islam University.</li>
       <li>🚀 Passionate about exploring the world of code and creativity!</li>
       <li>💬 Ask me about Dart, Flutter, and Git</li>
