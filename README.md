@@ -2,7 +2,7 @@
     <h1>👋 Hi, I am Syed Ebad</h1>
 <h3 align="center">🚀 A Passionate Flutter Developer from Karachi, Pakistan</h3>
 </div>
-
+<br>
  
 
 <!-- Who I am Section -->
@@ -26,13 +26,14 @@
   </div>
 </div>
 <br>
-<br>
+
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 <div id="badges" align="center">
 <!--   <a href="www.linkedin.com/in/syed-ebad-86a1552b5">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
   </a> -->
+    <br>
    <a href="https://www.linkedin.com/in/syed-ebad-86a1552b5/">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
   </a>
@@ -49,6 +50,7 @@
 <br>
 <!-- Tools and Technology Section -->
 <h2 align="center">Tools and Technologies 🛠</h2>
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
