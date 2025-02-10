@@ -17,7 +17,7 @@
   
   <div align="left">
     <ul>
-      <li> 🔭  I’m currently working on Flutter</li>
+      <li>🔭 I’m currently working on Flutter</li>
       <li>📫 How to reach me ebad3088@gmail.com</li>
       <li>🌱 Graduated from Sindh Madressatul Islam University.</li>
       <li>🚀 Passionate about exploring the world of code and creativity!</li>
@@ -30,10 +30,12 @@
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/syed-ebad-86a1552b5">
+<!--   <a href="www.linkedin.com/in/syed-ebad-86a1552b5">
+    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
+  </a> -->
+   <a href="https://www.linkedin.com/in/syed-ebad-86a1552b5/">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
   </a>
-  
   <a href="mailto:ebad3088@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=instagram&logoColor=ffffff">
   </a>
