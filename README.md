@@ -30,7 +30,7 @@
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/syed-ebad-86a1552b5" target="_blank">
+  <a href="www.linkedin.com/in/syed-ebad-86a1552b5">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
   </a>
   
